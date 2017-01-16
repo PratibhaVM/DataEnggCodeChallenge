@@ -1,7 +1,4 @@
 #TweetsData
-This has files for DataEngineering Code Challenge:
-
-
 Both "tweets_cleaned.py" and "average_degree.py" source files are written in python programming language.
 
 tweets_cleaned.py 
